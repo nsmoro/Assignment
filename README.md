@@ -1,4 +1,4 @@
-# CENT_Assignment
+# Assignment
 This document contains the solutions to the take-home assessment tasks for the Bioinformatics Research Scientist role at St. Jude Children’s Research Hospital.
 The analysis is implemented in R and documented using R Markdown.
 
@@ -17,8 +17,8 @@ Please open the `tasks_Morosini.html` file in a web browser to view the full ana
 
 ## Repository Structure
 
-- `data/` – input data objects
-- `data_clean/` – processed and cleaned data used for analysis
+- `data/` – input data objects (private)
+- `data_clean/` – processed and cleaned data used for analysis (private)
 - `part1/`, `part2/`, `part3/` – analysis components corresponding to different parts
   of the assignment
 
