@@ -1,5 +1,5 @@
 # CENT_Assignment
-This document contains the solutions to the take-home assessment tasks for the Bioinformatics Research Scientist role at The Center for Experimental Neurotherapeutics (CENT), St. Jude Children’s Research Hospital.
+This document contains the solutions to the take-home assessment tasks for the Bioinformatics Research Scientist role at St. Jude Children’s Research Hospital.
 The analysis is implemented in R and documented using R Markdown.
 
 ---
